@@ -10,6 +10,10 @@
 - 👯 I’m looking to collaborate on **frontend projects**, **ML**, or **visualization tools**
   
 - 💬 Ask me about **DSA**, **MySQL**, and **AIML**
+  
+- I build some chatbot with the help of LangChain and LagGraph also
+
+- I also have a knowledge of n8n and Agentkit with the help of this I build some project
 
 - 📫 How to reach me **anujpratapsingh2404@gmail.com**
 
